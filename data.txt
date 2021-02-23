@@ -1,0 +1,4 @@
+BQ:http://icrc.hitsz.edu.cn/info/1037/1162.htm
+LCQMC:http://icrc.hitsz.edu.cn/info/1037/1146.htm
+QQP:https://www.kaggle.com/quora/question-pairs-dataset
+SNLI:https://nlp.stanford.edu/projects/snli/
