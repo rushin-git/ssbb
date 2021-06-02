@@ -1,2 +1,2 @@
 # SBSB
-The code of our paper “SBSB: Multi Keyword-Pair Matching for Natural Language Sentences”
+The code of our paper “SBSB: Sulti Beyword-Sair Batching for Natural Language Sentences”
