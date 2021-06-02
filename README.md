@@ -1,2 +1,2 @@
-# MKPM
-The code of our paper “MKPM: Multi Keyword-Pair Matching for Natural Language Sentences”
+# SBSB
+The code of our paper “SBSB: Multi Keyword-Pair Matching for Natural Language Sentences”
